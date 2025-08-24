@@ -1,0 +1,11 @@
+{
+  "name": "Conserv",
+  "symbol": "CST",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Conserv (CST) is an ERC20 token built on Ethereum, created to embody conservative values: prudence, stability, responsibility, and respect for enduring traditions.",
+  "website": "https://github.com/TakatoBr/CST",
+  "explorer": "https://etherscan.io/token/0xF4f20629399F24d8F5d3Cb49b799Dc3B6128311b",
+  "status": "active",
+  "id": "0xF4f20629399F24d8F5d3Cb49b799Dc3B6128311b"
+}
